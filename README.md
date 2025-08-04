@@ -34,7 +34,7 @@ It integrates **OWASP WebGoat** and **WebWolf** to provide a lightweight, easily
 ## 🔹 Setup Instructions  
 
 ### 1️⃣ Import SkyTower VM into VirtualBox  
-1. Download the **SkyTower.ova** file.  
+1. Download the **SkyTower.ova** file from we.tl/t-4Fa2l47M4W?utm_source=qrcode_desktop  
 2. Open **VirtualBox** → Go to **File > Import Appliance**.  
 3. Select the `SkyTower.ova` file and click **Next** → **Import**.  
 4. After import, you will see the **SkyTower VM** in your VirtualBox list.  
